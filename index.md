@@ -29,22 +29,6 @@ Key insights:
 
 ---
 
-## Topics
-
-### 📱 Mobile App Market Research
-
-Revenue rankings, downloads, competitors, and market opportunities.
-
-### 🤖 AI Product Analysis
-
-How AI applications are changing user behavior and business models.
-
-### 🚀 Indie Developer Insights
-
-Lessons from building, launching, and growing mobile products.
-
----
-
 ## About
 
 I'm interested in mobile app ecosystems, product growth, and data-driven market research.
