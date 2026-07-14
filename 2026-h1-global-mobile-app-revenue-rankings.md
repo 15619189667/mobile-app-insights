@@ -302,7 +302,7 @@ A complete market analysis usually requires multiple perspectives:
 
 For this research, I used Appark to analyze global app revenue rankings and market trends.
 
-![Mobile App Market Analysis](./top.webp)
+![Mobile App Market Analysis](./top.jpg)
 
 Appark provides insights into:
 
