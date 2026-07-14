@@ -20,7 +20,7 @@ ChatGPT remains the highest-grossing app on the App Store, while Google One beco
 
 These rankings reveal more than just which apps are making money. They show how user behavior, business models, and market opportunities are changing.
 
-For this analysis, I used Appark to study global app revenue rankings, download trends, and publisher performance across App Store and Google Play.
+For this analysis, I used [Appark](https://appark.ai/cn/) to study global app revenue rankings, download trends, and publisher performance across App Store and Google Play.
 
 ---
 
@@ -308,7 +308,7 @@ A complete market analysis usually requires multiple perspectives:
 - Category changes
 - Historical ranking changes
 
-For this research, I used Appark to analyze global app revenue rankings and market trends.
+For this research, I used [Appark](https://appark.ai/cn/) to analyze global app revenue rankings and market trends.
 
 ![Mobile App Market Analysis](../top.jpg)
 
