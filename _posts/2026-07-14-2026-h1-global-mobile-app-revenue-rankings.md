@@ -3,7 +3,9 @@ layout: post
 title: "2026 H1 Global Mobile App Revenue Rankings: AI, Subscriptions, and Gaming Trends"
 date: 2026-07-14
 categories: mobile-app
+permalink: /2026-h1-global-mobile-app-revenue-rankings/
 ---
+
 # 2026 H1 Global Mobile App Revenue Rankings: AI, Subscriptions, and Gaming Trends
 
 ![2026 H1 Mobile App Revenue Rankings](../topic.webp)
