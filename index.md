@@ -3,8 +3,6 @@ layout: home
 title: Mobile App Insights
 ---
 
-# Mobile App Insights
-
 > Research and insights on mobile apps, AI products, growth strategies, and indie development.
 
 I explore mobile app market trends, revenue analysis, product strategies, and opportunities behind successful apps.
