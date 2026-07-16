@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://15619189667.github.io/mobile-app-insights/sitemap.xml
