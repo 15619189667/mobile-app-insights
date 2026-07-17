@@ -23,7 +23,7 @@ Key insights:
 - Subscription models continue driving revenue
 - Mobile games remain a global revenue engine
 
-[Read the full analysis →]({{ site.baseurl }}/global-mobile-app-revenue-rankings/)
+[Read the full analysis →]({{ site.baseurl }}/2026-07-14-global-mobile-app-revenue-rankings/)
 
 ---
 
