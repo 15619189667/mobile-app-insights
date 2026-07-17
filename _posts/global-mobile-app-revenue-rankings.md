@@ -3,9 +3,9 @@ layout: post
 title: "2026 H1 Global Mobile App Revenue Rankings: AI, Subscriptions, and Gaming Trends"
 date: 2026-07-14
 categories: mobile-app
-permalink: /2026-h1-global-mobile-app-revenue-rankings/
+permalink: /global-mobile-app-revenue-rankings/
 ---
-![2026 H1 Mobile App Revenue Rankings](../topic.webp)
+![2026 H1 Mobile App Revenue Rankings](../image/1/topic.webp)
 
 The mobile app market is entering a new stage in 2026.
 
@@ -307,7 +307,7 @@ A complete market analysis usually requires multiple perspectives:
 
 For this research, I used [Appark](https://appark.ai/cn/) to analyze global app revenue rankings and market trends.
 
-![Mobile App Market Analysis](../top.jpg)
+![Mobile App Market Analysis](../image/1/top.jpg)
 
 Appark provides insights into:
 
