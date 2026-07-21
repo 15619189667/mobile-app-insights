@@ -28,7 +28,7 @@ Key insights:
 ---
 ### 📊 Global AI App Revenue Rankings (June 2026): ChatGPT Hits $344.7M, Claude Leads Growth
 
-[Read the full analysis →]({{ site.baseurl }}/2026-07-22-global-ai-app-revenue-ranking-june-2026/)
+[Read the full analysis →]({{ site.baseurl }}/2026-07-21-global-ai-app-revenue-ranking-june-2026/)
 ## About
 
 I'm interested in mobile app ecosystems, product growth, and data-driven market research.
