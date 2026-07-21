@@ -1,4 +1,10 @@
-# Global AI App Revenue Rankings (June 2026): ChatGPT Hits $344.7M, Claude Leads Growth
+---
+layout: post
+title: "Global AI App Revenue Rankings (June 2026): ChatGPT Hits $344.7M, Claude Leads Growth"
+date: 2026-07-14
+categories: mobile-app
+permalink: /2026-07-22-global-ai-app-revenue-ranking-june-2026/
+---
 
 The global AI app market continued to expand in June 2026, but revenue is becoming increasingly concentrated among a handful of leading products.
 
@@ -8,6 +14,7 @@ Beyond the leading AI assistants, products such as CapCut, Canva, Grok, and Pict
 
 In this report, we'll review the **June 2026 Global AI App Revenue Rankings**, analyze the top-performing AI apps, and explore the latest monetization trends shaping the AI industry.
 
+![Global AI App Revenue Rankings](../image/2/topic.jpg)
 ---
 
 ## Global AI App Market Overview
@@ -18,7 +25,7 @@ According to **Appark Top Charts**, ChatGPT remained the clear market leader, fo
 
 This suggests that the market is evolving from a winner-takes-all model toward multiple successful AI categories.
 
-![Global AI App Revenue Rankings](https://appark.ai/_nuxt/blog/53/top.webp)
+![Global AI App Revenue Rankings](../image/2/top.jpg)
 
 ### What's Driving Revenue Growth?
 
@@ -34,7 +41,7 @@ Several factors contributed to June's revenue growth across the AI industry:
 
 Below are the highest-grossing AI apps worldwide in June 2026.
 
-![June 2026 Global AI App Revenue Top 10](https://appark.ai/_nuxt/blog/53/top10.webp)
+![June 2026 Global AI App Revenue Top 10](../image/2/top.jpg)
 
 ### Key Takeaways
 
@@ -80,8 +87,6 @@ Although **Perplexity** did not enter the Top 10 by revenue, it continued showin
 
 Developers can also explore similar products through **[Appark Advanced Search](https://appark.ai/en/advanced-search)** to compare revenue, downloads, and rankings.
 
-![Advanced Search](https://appark.ai/_nuxt/blog/53/advance.webp)
-
 ---
 
 ## China's AI Apps Continue Expanding Globally
@@ -125,8 +130,6 @@ The rankings reveal several opportunities.
 - Track competitors over time rather than relying on one-time market snapshots.
 
 With **[Appark Competitor Monitoring](https://appark.ai/en/dashboards/competitor)**, teams can continuously monitor revenue, downloads, and ranking changes to identify new market opportunities.
-
-![Competitor Monitoring](https://appark.ai/_nuxt/blog/53/compare.webp)
 
 ---
 
