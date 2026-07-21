@@ -14,7 +14,7 @@ Beyond the leading AI assistants, products such as CapCut, Canva, Grok, and Pict
 
 In this report, we'll review the **June 2026 Global AI App Revenue Rankings**, analyze the top-performing AI apps, and explore the latest monetization trends shaping the AI industry.
 
-![Global AI App Revenue Rankings](../image/2/topic.jpg)
+![Global AI App Revenue Rankings](../image/1/topic2.png)
 ---
 
 ## Global AI App Market Overview
@@ -25,7 +25,7 @@ According to **Appark Top Charts**, ChatGPT remained the clear market leader, fo
 
 This suggests that the market is evolving from a winner-takes-all model toward multiple successful AI categories.
 
-![Global AI App Revenue Rankings](../image/2/top.jpg)
+![Global AI App Revenue Rankings](../image/1/top.jpg)
 
 ### What's Driving Revenue Growth?
 
@@ -41,7 +41,7 @@ Several factors contributed to June's revenue growth across the AI industry:
 
 Below are the highest-grossing AI apps worldwide in June 2026.
 
-![June 2026 Global AI App Revenue Top 10](../image/2/top.jpg)
+![June 2026 Global AI App Revenue Top 10](../image/1/top10.png)
 
 ### Key Takeaways
 
@@ -159,4 +159,4 @@ The AI market evolves rapidly, and a single monthly ranking only captures one mo
 
 What's more valuable is understanding **long-term trends** in revenue, downloads, rankings, and competitive positioning.
 
-If you want to track the global AI app market more closely, **Appark** provides continuously updated revenue estimates, download rankings, and competitor insights across both the **Apple App Store** and **Google Play**, helping businesses and creators make better data-driven decisions.
+If you want to track the global AI app market more closely, **[Appark](https://appark.ai/)** provides continuously updated revenue estimates, download rankings, and competitor insights across both the **Apple App Store** and **Google Play**, helping businesses and creators make better data-driven decisions.
