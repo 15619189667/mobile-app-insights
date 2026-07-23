@@ -8,6 +8,8 @@ Research on **mobile apps**, **AI products**, **app revenue rankings**, and **pr
 
 Explore data-driven analysis covering market trends, monetization, and opportunities across the global mobile app industry.
 
+![Mobile App Insights Hero]({{ site.baseurl }}/image/uyang_blog.png)
+
 ---
 
 ## 🔥 Featured Article
