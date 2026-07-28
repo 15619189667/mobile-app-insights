@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "June 2026 China Mobile App Revenue Rankings: Top 15 Apps and Market Trends"
 description: "Explore the top-grossing mobile apps in China for June 2026. Discover how games, short-form video, subscriptions, and AI-powered tools are reshaping the mobile app revenue landscape."
 date: 2026-07-28
@@ -9,6 +10,8 @@ tags:
   - China
   - App Market
   - Mobile Industry
+categories: ai-app
+permalink: /global-mobile-app-revenue-rankings/
 ---
 
 
