@@ -12,8 +12,6 @@ tags:
 permalink: /repurposing-long-videos-into-short-clips/
 ---
 
-# Repurposing Long Videos into Short Clips: A Practical Guide
-
 Long-form video and short-form video have different distribution mechanics. A 60-minute podcast episode, a webinar recording, or a conference talk can only reach an audience that already knows it exists. Short clips, distributed on recommendation-driven platforms, can reach viewers who have never heard of the channel. For most creators and teams, repurposing long video into short clips is no longer optional — it is the main discovery path.
 
 This guide covers the full pipeline: what to cut, which tool categories exist, how to build a workflow that survives real production schedules, and the failure modes that waste the most time.
@@ -119,3 +117,7 @@ Before committing to a tool stack:
 - DaVinci Resolve / CapCut: desktop editors for frame-level finishing
 
 The stack that works for most small teams: one AI online tool for first-pass selection, ffmpeg for batch normalization, a desktop editor only for flagship clips. Everything else is optional.
+
+---
+
+Explore more research on AI apps and product growth at [Mobile App Insights]({{ site.baseurl }}/).

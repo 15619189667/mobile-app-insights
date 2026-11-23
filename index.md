@@ -24,6 +24,13 @@ Discover the highest-grossing mobile apps in China for June 2026 based on App St
 
 ## 📈 Latest Research
 
+### Repurposing Long Videos into Short Clips: A Practical Guide
+
+A practical guide to selecting video highlights, comparing AI clipping tools with desktop editors and FFmpeg, and building a repeatable short-video workflow.
+
+[Read the video repurposing guide →]({{ site.baseurl }}/repurposing-long-videos-into-short-clips/)
+
+
 ### Global AI App Revenue Rankings (June 2026)
 
 Explore the world's highest-grossing AI apps, including ChatGPT, Claude, Gemini, and other leading products. Analyze AI subscription revenue, market leaders, and the latest commercialization trends shaping the AI app industry.
