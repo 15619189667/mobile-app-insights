@@ -24,6 +24,13 @@ Discover the highest-grossing mobile apps in China for June 2026 based on App St
 
 ## 📈 Latest Research
 
+### Turning Photos into Printable Line Art: A Practical Pipeline
+
+Compare classical computer vision and AI converters, with an OpenCV example and print-quality checks.
+
+[Read the printable line-art guide →]({{ site.baseurl }}/turning-photos-into-printable-line-art/)
+
+
 ### Repurposing Long Videos into Short Clips: A Practical Guide
 
 A practical guide to selecting video highlights, comparing AI clipping tools with desktop editors and FFmpeg, and building a repeatable short-video workflow.
